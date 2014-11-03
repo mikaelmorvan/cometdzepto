@@ -1,0 +1,30 @@
+{
+  "name": "CometdZepto",
+  "version": "1.0.0",
+  "authors": [
+    "Mikael Morvan <mikaelmorvan@gmail.com>"
+  ],
+  "description": "CometD Built with Zepto included",
+  "main": "cometd.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "cometd",
+    "zepto"
+  ],
+  "license": "MIT",
+  "homepage": "zetapush.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cometd-jquery": "~3.0.2",
+    "zepto": "~1.1.4",
+    "cometd-js-jquery": "~2.6.0"
+  }
+}
