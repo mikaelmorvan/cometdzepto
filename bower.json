@@ -22,7 +22,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
+  "devDependencies": {
     "cometd-jquery": "~3.0.2",
     "zepto": "~1.1.4",
     "cometd-js-jquery": "~2.6.0"
