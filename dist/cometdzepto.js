@@ -2934,6 +2934,10 @@ org.cometd.CometD = function(name)
         return result;
     };
 
+    // ZetaPush
+    this.notifyListeners= _notifyListeners;
+    // End ZetaPush
+
     /**
      * @return an array of all registered transport types
      */
